@@ -21,9 +21,7 @@ android {
             buildConfigField 'String', "BASE_URL", BASE_URL
 
         }
-        dexOptions {
-            preDexLibraries true
-        }
+        
     }
     compileOptions {
         sourceCompatibility = '1.8'
