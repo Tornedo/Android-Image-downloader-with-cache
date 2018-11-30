@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mind Valley</string>
+    <string name="detail_activity_label">Item Details</string>
+
+
+    <string name="no_internet">Connect to the internet then retry.</string>
+    <string name="error">An error occurred. Please retry</string>
+    <string name="retry">Retry</string>
+    <string name="photo">Photo</string>
+
+
+
+</resources>
